@@ -55,7 +55,6 @@ Github Actions:
     working-directory: example
 - name: Show uv version
   run: |
-    export PATH=${HOME}/.local/bin:${PATH}
     type uv
     uv --version
 ```
