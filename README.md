@@ -52,7 +52,6 @@ Github Actions:
     plugin: uv
     args: |
       setup
-    working-directory: example
 - name: Show uv version
   run: |
     type uv
