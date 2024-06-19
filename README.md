@@ -1,5 +1,6 @@
 # Uv Plugin
 
+[![fluentci pipeline](https://shield.fluentci.io/x/uv)](https://pkg.fluentci.io/uv)
 [![ci](https://github.com/fluentci-io/uv-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/fluentci-io/uv-plugin/actions/workflows/ci.yml)
 
 This plugin sets up your CI/CD pipeline with a specific version of [uv](https://github.com/astral-sh/uv).
